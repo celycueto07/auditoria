@@ -1,11 +1,11 @@
-Torneo de Fútbol v1.0
+Liga de Beisbol La Vieja v1.0
 ===================
 
 Base de datos soportada:
 
 Mysql
 
-Administración de Torneos de Fútbol: Equipos, jugadores, partidos, resultados, tabla de goleadores.
+Administración de la liga de futbol la Vieja: Equipos, jugadores, partidos, resultados, tabla de mejores bateadores
 
 panel/
 
@@ -19,25 +19,12 @@ inc/config.php
 
 define('USUARIO', "administrador");
 define('CLAVE', "torneo");
-define('DB', "futboldb");
+define('DB', "beisboldb");
 define('HOST',"localhost");
 define('USERDB',"root");
 define('PASSDB',"");
 
 BASE DE DATOS:
-
-Actualmente posee datos de prueba. Eliminar o modificar según crea conveniente.
-
-Importar el script:
-
-futboldb.sql
-
-Muchas gracias por descargar el script de Torneo de Fútbol libre y gratuito, espero que pueda colaborar con este proyecto.
-
-Me comprometo a realizar mejoras constantes y subirlas para que este proyecto siga creciendo. 
-
-Espero que se tome unos minutos para darme su Feedback! ;)
-
 
 
 
