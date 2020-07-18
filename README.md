@@ -18,7 +18,6 @@ Modificarlo según su necesidad
 inc/config.php
 
 define('USUARIO', "administrador");
-define('CLAVE', "torneo");
 define('DB', "beisboldb");
 define('HOST',"localhost");
 define('USERDB',"root");
